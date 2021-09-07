@@ -28,3 +28,5 @@ dependencies:
 ```
 
 Reference: https://helm.sh/docs/topics/registries/#login
+
+PS: I am facing this issue on Gitlab Registry.
